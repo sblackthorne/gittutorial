@@ -1,6 +1,8 @@
 #Hello world.
 
-This is my very first attempt at learning GitHub. So far, I've learned an abundance of stuff that I am not certain I will retain and feel completely overwhelmed by...And am LOVING.
+This is my very first attempt at learning GitHub. So far, I've learned an abundance of stuff that I am not certain I will retain and feel completely overwhelmed by...And I am LOVING it.
+
+##Here is what I've done so far:
 
 * how to create a repo in my terminal
 * how to push data from my repo to GitHub
